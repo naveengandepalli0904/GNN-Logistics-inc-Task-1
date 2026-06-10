@@ -9,3 +9,20 @@ SETUP INSTUCTION:-
 .SET VISIBILITY TO PUBLIC
 .PUBLISH THE SITE THROUGH GITHUB PAGES(ADD DOMAIN IF YOU OWN ANY)
 
+AI PROMPTS USED FOR BUILDING WEBSITE📊:-
+.here is my html code(i pasted html my code here) and partially coded css file, now complete css code for me
+.can you add smooth validation and   animation without changing my form structure
+.Can you animate my service cards
+.can you add a grid background pattern on my site as shown in image
+.add hover effect to every button
+
+.add responsiveness to my site
+.for a tablet too
+
+.add some animations to my footer
+
+.can you debug errors in my js code
+
+
+
+
